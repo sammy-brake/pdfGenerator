@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sammy-brake/pdfGenerator/issues"
   },
-  "homepage": "https://github.com/sammy-brake/pdfGenerator#readme"
+  "homepage": "https://github.com/sammy-brake/pdfGenerator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.0.4"
+  }
 }
