@@ -1,9 +1,9 @@
-var inquirer = require("inquirer");
+// var inquirer = require("inquirer");
 
-inquirer.prompt([
-    {
-        type:"input",
-        message: "What is your favorite color?"
-        name: "color"
-    }
-])
+// inquirer.prompt([
+//     {
+//         type:"input",
+//         message: "What is your favorite color?"
+//         name: "color"
+//     }
+// ])
